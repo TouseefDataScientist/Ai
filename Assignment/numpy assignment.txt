@@ -1,0 +1,37 @@
+Assignment Questions
+Basic Array Operations
+
+Create a 1D array, a 2D array, and a 3D array.
+Perform slicing operations on arrays.
+Perform basic arithmetic operations on arrays (addition, subtraction, multiplication, division).
+Array Creation and Manipulation
+
+Create arrays using different functions: arange, linspace, zeros, ones, eye, random.
+Reshape an array.
+Concatenate and split arrays.
+Statistical Operations
+
+Compute mean, median, variance, and standard deviation of an array.
+Find the minimum and maximum values in an array along with their indices.
+Compute the sum and product of array elements.
+Broadcasting
+
+Demonstrate broadcasting with examples of different shapes of arrays.
+Explain the concept of broadcasting and how it works in NumPy.
+Linear Algebra
+
+Perform matrix multiplication.
+Compute the determinant, inverse, and eigenvalues of a matrix.
+Solve a system of linear equations.
+Advanced Indexing and Slicing
+
+Use Boolean indexing to filter an array.
+Use fancy indexing to select specific elements from an array.
+Perform advanced slicing operations.
+Random Sampling
+
+Generate random numbers from different distributions.
+Create random samples from a dataset.
+Perform random shuffling of an array.
+
+

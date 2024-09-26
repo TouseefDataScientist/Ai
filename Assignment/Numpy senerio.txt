@@ -1,0 +1,19 @@
+Sales Data Analysis: You have a NumPy array representing the daily sales of a product over a month. Each element in the array represents the sales for a particular day. Compute the total sales, average sales, and the day with the highest sales.
+
+Weather Data Processing: Given a 2D NumPy array where each row represents daily temperature readings for a week (7 days), find the average temperature for each day across all weeks.
+
+Financial Analysis: You have a NumPy array representing the daily closing prices of a stock for a month. Calculate the monthly return, which is the percentage change from the first to the last day of the month.
+
+Student Grades Analysis: You have a 2D NumPy array where each row represents a student and each column represents their grades in different subjects. Calculate the average grade for each student and the overall class average for each subject.
+
+Image Processing: You have a grayscale image represented as a 2D NumPy array of pixel intensities. Normalize the pixel values to a range of 0 to 1.
+
+Population Growth Analysis: You have a NumPy array representing the population of a city over 10 years. Calculate the annual growth rate and identify the year with the highest growth.
+
+Traffic Data Analysis: Given a 2D NumPy array where each row represents the number of vehicles passing through a checkpoint in different hours of the day over a week, calculate the total traffic for each day and the busiest hour of the week.
+
+Product Inventory Management: You have a NumPy array representing the stock levels of different products in a warehouse. Reorder the products with stock levels below a threshold (e.g., 50 units).
+
+Game Score Analysis: You have a NumPy array representing the scores of different players in a game over multiple rounds. Identify the player with the highest average score and the round with the highest total score.
+
+Financial Portfolio Analysis: You have a NumPy array representing the daily returns of different assets in a financial portfolio over a month. Calculate the portfolio's overall daily return, and identify the asset with the highest volatility.
